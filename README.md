@@ -1,3 +1,2 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+## BeachResort react app 
+to check it alive :  simple-react-websiteee.netlify.app
