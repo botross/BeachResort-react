@@ -46,16 +46,16 @@ function App() {
     SetSorted(tempRooms) 
     }
 
-    if(type === "true"){
+    if(type === "truee"){
     let tempRooms = eewad.filter(room => room.pets === true);
     SetSorted(tempRooms) 
     }
-    if(type === "false"){
+    if(type === "falsee"){
     let tempRooms = eewad.filter(room => room.pets === false);
     SetSorted(tempRooms) 
     }
     if(type === "true"){
-    let tempRooms = eewad.filter(room => room.breakfast === false);
+    let tempRooms = eewad.filter(room => room.breakfast === true);
     SetSorted(tempRooms) 
     }
     if(type === "false"){

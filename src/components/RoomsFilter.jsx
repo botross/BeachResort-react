@@ -43,8 +43,6 @@ function RoomsFilter() {
             <div className="form-group">
                 <label htmlFor="capacity">Breakfast</label>
                 <select
-                name="capacity"
-                id="capacity"
                 onChange={(e) => Filterr(e.target.value)}
                 className="form-control"
                 
@@ -57,14 +55,12 @@ function RoomsFilter() {
             <div className="form-group">
                 <label htmlFor="capacity">Pets</label>
                 <select
-                name="capacity"
-                id="capacity"
                 onChange={(e) => Filterr(e.target.value)}
                 className="form-control"
                 >
                         <option value="all" ></option>
-                        <option value="true">Allowed</option>
-                        <option value="false">Not Allowed</option>
+                        <option value="truee">Allowed</option>
+                        <option value="falsee">Not Allowed</option>
                 </select>
             </div>
             </form>
