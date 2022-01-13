@@ -20,7 +20,7 @@ function Rooms() {
             <Banner title="Our Rooms"  >
                 <Link to="/filterRooms">
                     <button className='btn-primary'>
-                    Fliter Rooms
+                    Filter Rooms
                     </button>
                 </Link>
             </Banner>
